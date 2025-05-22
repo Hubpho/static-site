@@ -1,2 +1,1 @@
-#!/usr/bin/env bash
-python3 src/main.py "/static-site/"
+python3 src/main.py "/REPO_NAME/"
